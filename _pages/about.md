@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a gradaute student and ICARE trainee at the UNiversity of Maryland Baltimore County, under the Gepgrapgy & Environmental Systems Department.
+I'm a graduate student and ICARE trainee at the University of Maryland Baltimore County, under the Geography & Environmental Systems Department.
 
 
 My Environmental & Career Goals
