@@ -1,6 +1,6 @@
 ---
 title: " Traffic density & Air pollution in Baltimore"
-excerpt: "Evaluating tree & traffic patterns in Baltimore City & the implications for Air Pollution<br/><img src='/images/500x300.png'>"
+excerpt: "Evaluating tree & traffic patterns in Baltimore City & the implications for Air Pollution<br/><img src='/images/Final_Map1.PNG'>"
 collection: portfolio
 ---
 
