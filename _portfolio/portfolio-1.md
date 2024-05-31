@@ -1,7 +1,10 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: " Traffic density & Air pollution in Baltimore"
+excerpt: "Evaluating tree & traffic patterns in Baltimore City & the implications for Air Pollution<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Background information: Air quality is still a concern for Baltimore residents. There isn’t an air quality sensor network or any data in Baltimore to collect and compare. There aren't any resources or current grants for quality EPA grade air sensors. Lake Montebello is the only air quality sensor location.
+1.	Growing network of crowd source networking (e.g., Purple Air sensors and the growing network there) - but not necessarily equally distributed throughout urban centers in order to capture variability in air pollution and air quality.
+2.	Interested in seeing if trees as bioindicators are a potential monitoring option for diversifying and distributing the air pollution monitoring network in urban areas.
+
