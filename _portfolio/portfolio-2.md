@@ -1,6 +1,6 @@
 ---
 title: " Change this to name of 687 lab"
-excerpt: "write a short description here<br/><img src="/images/Lab7_QGIS_Map.pdf" height='50%'>"
+excerpt: "write a short description here<br/><img src='/images/Lab7_QGIS_Map.pdf' height='50%'>"
 collection: portfolio
 ---
 
