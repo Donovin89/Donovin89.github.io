@@ -1,7 +1,7 @@
 ---
 title: " Relationship Map of Education & Medincome in Baltimore"
 excerpt: "Understanding the intricate relationship between education and median income in Baltimore is crucial for addressing disparities and fostering economic equity. Baltimore, Maryland's largest city, grapples with significant socio-economic challenges amidst a diverse demographic landscape. Historically, disparities in educational attainment and income levels have been pronounced, contributing to uneven economic growth and opportunities across different neighborhoods. The interplay between educational achievement and median income reflects broader systemic issues related to access to quality education, job market dynamics, and community development initiatives
-.<br/><img src='/images/Lab7_QGIS_Map.pdf' height='50%'>"
+.<br/><img src='/images/Lab7_Map.png' height='50%'>"
 collection: portfolio
 ---
 
