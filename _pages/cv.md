@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* University of Maryland, Baltimore County (UMBC) 		                                   	     	Baltimore, MD
-  Geography and Environmental Systems, ICARE Program M.S.	                                     (Expected date:2025) 
+* University of Maryland, Baltimore County (UMBC) Baltimore, MD\
+  Geography and Environmental Systems, ICARE Program M.S. (Expected date:2025) 
 
 * University of Maryland, Baltimore County (UMBC) 	                                   	       	Baltimore, MD
   Geography and Environmental Studies, B.A. 							   	                                       May 2021
