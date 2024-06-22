@@ -14,12 +14,12 @@ Education
 * University of Maryland, Baltimore County (UMBC) Baltimore, MD\
   Geography and Environmental Systems, ICARE Program M.S. (Expected date:2025) 
 
-* University of Maryland, Baltimore County (UMBC) 	                                   	       	Baltimore, MD
-  Geography and Environmental Studies, B.A. 							   	                                       May 2021
+* University of Maryland, Baltimore County (UMBC) Baltimore, MD\
+  Geography and Environmental Studies, B.A. May 2021
 	* Relevant courses: Ecology, Wildlife & Field Techniques, Natural Resource Management, Conservation Biology, Urban Ecology and GIS, Landscape Ecology, Political Geography
 
-* Community Colleges of Baltimore County 	 	 	 	                                                     Catonsville, MD
-  A.A. General Studies										                                                                  May 2016 
+* Community Colleges of Baltimore County Catonsville, MD\
+  A.A. General Studies May 2016 
   	* Relevant courses: Intro to Environmental Science, Introduction to Biology
 
 
