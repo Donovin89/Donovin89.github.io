@@ -17,5 +17,5 @@ Background information: Air quality is still a concern for Baltimore residents. 
 1.	Growing network of crowd source networking (e.g., Purple Air sensors and the growing network there) - but not necessarily equally distributed throughout urban centers in order to capture variability in air pollution and air quality.
 2.	Interested in seeing if trees as bioindicators are a potential monitoring option for diversifying and distributing the air pollution monitoring network in urban areas.
 
-### Tree and Traffic Pattern Analysis 
-![Map 1](../images/Final_Map1.PNG){height="50%"}
+### Relationship Map of Education & Medincome in Baltimore 
+![Relationship_Map](../images/Lab7_Map.png){height="50%"}
