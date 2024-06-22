@@ -82,4 +82,3 @@ Work experience
 Skills
 ======
 * Proficient in Matlab, ArcGIS and (full) Microsoft suite Skill 1
-  
