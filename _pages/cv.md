@@ -20,7 +20,7 @@ Education
 
 * Community Colleges of Baltimore County 	 	 	 	                                                     Catonsville, MD
   A.A. General Studies										                                                                  May 2016 
-  	*Relevant courses: Intro to Environmental Science, Introduction to Biology
+  	* Relevant courses: Intro to Environmental Science, Introduction to Biology
 
 
 Work experience
@@ -36,8 +36,8 @@ Work experience
 
 * General Assistant 
   Institute of Marine & Environmental Technology (IMET), Baltimore, MD                                  _Dec 2022-Mar 2023_
-  	* Assisted Aquaculture Research Center (ARC) technician in zebrafish husbandry duties including feeding and siphoning.
-  	* Assisted in water quality maintenance through bicarbonate additions.
+	* Assisted Aquaculture Research Center (ARC) technician in zebrafish husbandry duties including feeding and siphoning.
+   	* Assisted in water quality maintenance through bicarbonate additions.
   	* Conducted daily feedings and monitored fish behavior.	
 
 * Lab Technician
@@ -71,8 +71,8 @@ Work experience
   UMBC 	 	 	 		                                                                                           _May 2017-Sept 2017_ 
   	* Studied patterns of floodplain sediment accretion and particle size distribution following Tropical Storm Lee and the 2016 Ellicott City flood on the Lower Patapsco River floodplain to analyze the impact of sediment collections on landscapes across the Patapsco River. 
 
-* VOLUNTEER & LEADERSHIP EXPERIENCE 
-  	* Baltimore Aquarium’s What Lives In The Harbor (WLITH) Program                                         _2023_
+* VOLUNTEER & LEADERSHIP EXPERIENCE
+	* Baltimore Aquarium’s What Lives In The Harbor (WLITH) Program                                         _2023_
   	* IMET's Ratcliffe Environmental Entrepreneur Fellow (REEF) Program                                             _2022-2023_
   	* Collecting snails along the Rhode River to be processed for parasites under SERC’s Marine Disease lab         _2021_
   	* Member of UMBC Geography and Environmental Systems Council 				                       _2018-2021_
