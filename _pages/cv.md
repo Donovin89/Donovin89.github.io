@@ -42,8 +42,7 @@ Work experience
 
 * Lab Technician
   Institute of Marine & Environmental Technology (IMET), Baltimore, MD	   	                            _Aug 2022-Jan 2023_
-	* This position works on optimizing the density of shrimp cultivation based on a 
-  closed recirculating aquaculture system via sustainable feed development and the aquaponic system.
+	* This position works on optimizing the density of shrimp cultivation based on a closed recirculating aquaculture system via sustainable feed development and the aquaponic system.
   	* This includes managing daily operations feeding, weekly weighing of the shrimp to monitor growth and adjusting feed amount, monitoring and maintaining the tank system (water quality, water level height, DO levels), keeping accurate records in a google sheet and doc, and writing a report at each round of shrimp cultivation.
   	* Feed development: utilizing food waste and black soldier fly to formulate feed types and test with shrimp.
   	* Testing and adding an aquaponic system: an aquaponic component that needs to be added to the shrimp tanks, testing for vegetable cultivation. 
