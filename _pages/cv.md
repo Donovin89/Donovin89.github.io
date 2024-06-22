@@ -20,7 +20,7 @@ Education
 
 * Community Colleges of Baltimore County Catonsville, MD\
   A.A. General Studies May 2016
-  	* Relevant courses: Intro to Environmental Science, Introduction to Biology
+	* Relevant courses: Intro to Environmental Science, Introduction to Biology
 
 
 Work experience
