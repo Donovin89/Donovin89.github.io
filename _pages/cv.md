@@ -38,7 +38,16 @@ Work experience
   Institute of Marine & Environmental Technology (IMET), Baltimore, MD                                  _Dec 2022-Mar 2023_
 	* Assisted Aquaculture Research Center (ARC) technician in zebrafish husbandry duties including feeding and siphoning.
    	* Assisted in water quality maintenance through bicarbonate additions.
-  	* Conducted daily feedings and monitored fish behavior.	
+  	* Conducted daily feedings and monitored fish behavior.
+
+ * General Assistant  
+ Institute of Marine & Environmental Technology (IMET), Baltimore, MD  
+_Dec 2022-Mar 2023_
+
+- Assisted Aquaculture Research Center (ARC) technician in zebrafish husbandry duties including feeding and siphoning.
+- Assisted in water quality maintenance through bicarbonate additions.
+- Conducted daily feedings and monitored fish behavior.
+
 
 * Lab Technician
   Institute of Marine & Environmental Technology (IMET), Baltimore, MD	   	                            _Aug 2022-Jan 2023_
