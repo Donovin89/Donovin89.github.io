@@ -63,11 +63,10 @@ Work experience
   	- Managed the daily operations of live specimen laboratory maintenance including shrimp feeding, monitoring and tracking of water quality parameters to ensure shrimp health.
 
 * UMBC Geography and Environmental Systems Department Field Technician
-  Smithsonian (ForestGEO), Baltimore, MD 			                                      	     	                 _Sept 2017-Mar 2018_ 
-  	-Collected field samples and conducted a soil composition analysis of forest inventory data accounting for demographics and ecosystem changes for annual tree diversity and density studies.
+  Smithsonian (ForestGEO), Baltimore, MD 			                                      	     	                 _Sept 2017-Mar 2018_
+  	- Collected field samples and conducted a soil composition analysis of forest inventory data accounting for demographics and ecosystem changes for annual tree diversity and density studies.
 
-* Field Technician for Sediment Pollution
-  UMBC 	 	 	 		                                                                                           _May 2017-Sept 2017_ 
+* Field Technician for Sediment Pollution (UMBC)	 	 	 		                                          _May 2017-Sept2017_ 
   	- Studied patterns of floodplain sediment accretion and particle size distribution following Tropical Storm Lee and the 2016 Ellicott City flood on the Lower Patapsco River floodplain to analyze the impact of sediment collections on landscapes across the Patapsco River. 
 
 * VOLUNTEER & LEADERSHIP EXPERIENCE
