@@ -36,10 +36,9 @@ Work experience
 
  * General Assistant  
  Institute of Marine & Environmental Technology (IMET), Baltimore, MD                                   _Dec 2022-Mar 2023_
-
-- Assisted Aquaculture Research Center (ARC) technician in zebrafish husbandry duties including feeding and siphoning.
-- Assisted in water quality maintenance through bicarbonate additions.
-- Conducted daily feedings and monitored fish behavior.
+	- Assisted Aquaculture Research Center (ARC) technician in zebrafish husbandry duties including feeding and siphoning.
+	- Assisted in water quality maintenance through bicarbonate additions.
+	- Conducted daily feedings and monitored fish behavior.
 
 * Lab Technician
   Institute of Marine & Environmental Technology (IMET), Baltimore, MD	   	                            _Aug 2022-Jan 2023_
@@ -50,16 +49,14 @@ Work experience
  
   * Marine Invasion Laboratory Intern  
     Smithsonian Environmental Research Center, Edgewater, MD                                                    _Jun 2021-Aug 2021_
-
-  - As a member of the Bloom project, studied the larval ecology of invasive species of mussels and barnacles.
-  - Cultured barnacle and algal species, executed daily feeding of cultured organisms, and conducted aquatic bioassays species.
-  - Assisted in annual summer sampling of local shallow water communities to maintain record of local environmental ecology. Seined for fish, measured shrimp abundance, and monitored shrimp predation.
-
+  	- As a member of the Bloom project, studied the larval ecology of invasive species of mussels and barnacles.
+ 	 - Cultured barnacle and algal species, executed daily feeding of cultured organisms, and conducted aquatic bioassays species.
+  	- Assisted in annual summer sampling of local shallow water communities to maintain record of local environmental ecology. Seined for fish, measured shrimp abundance, and monitored shrimp predation.
 
 * Curatorial-Aid Intern 
   Reptile Discovery Center, National Zoological Park, Washington, DC	                                       _Mar 2021-May 2021_
-  - Worked on the environmental design and foundational literary research for the center. 
-  - Developed an interactive experience for visitors for simulated sustainability exhibit Aldabra tortoises. 
+  	- Worked on the environmental design and foundational literary research for the center. 
+  	- Developed an interactive experience for visitors for simulated sustainability exhibit Aldabra tortoises. 
 
 * Lab Technician									
   Institute of Marine & Environmental Technology (IMET), Baltimore, MD	                                     _Dec 2019-Jan 2021_
