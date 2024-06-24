@@ -42,15 +42,15 @@ Work experience
 
 * Lab Technician
   Institute of Marine & Environmental Technology (IMET), Baltimore, MD	   	                            _Aug 2022-Jan 2023_
-	* This position works on optimizing the density of shrimp cultivation based on a closed recirculating aquaculture system via sustainable feed development and the aquaponic system.
-  	* This includes managing daily operations feeding, weekly weighing of the shrimp to monitor growth and adjusting feed amount, monitoring and maintaining the tank system (water quality, water level height, DO levels), keeping accurate records in a google sheet and doc, and writing a report at each round of shrimp cultivation.
-  	* Feed development: utilizing food waste and black soldier fly to formulate feed types and test with shrimp.
-  	* Testing and adding an aquaponic system: an aquaponic component that needs to be added to the shrimp tanks, testing for vegetable cultivation. 
+	- This position works on optimizing the density of shrimp cultivation based on a closed recirculating aquaculture system via sustainable feed development and the aquaponic system.
+  	- This includes managing daily operations feeding, weekly weighing of the shrimp to monitor growth and adjusting feed amount, monitoring and maintaining the tank system (water quality, water level height, DO levels), keeping accurate records in a google sheet and doc, and writing a report at each round of shrimp cultivation.
+  	- Feed development: utilizing food waste and black soldier fly to formulate feed types and test with shrimp.
+  	- Testing and adding an aquaponic system: an aquaponic component that needs to be added to the shrimp tanks, testing for vegetable cultivation. 
  
   * Marine Invasion Laboratory Intern  
     Smithsonian Environmental Research Center, Edgewater, MD                                                    _Jun 2021-Aug 2021_
   	- As a member of the Bloom project, studied the larval ecology of invasive species of mussels and barnacles.
- 	 - Cultured barnacle and algal species, executed daily feeding of cultured organisms, and conducted aquatic bioassays species.
+ 	- Cultured barnacle and algal species, executed daily feeding of cultured organisms, and conducted aquatic bioassays species.
   	- Assisted in annual summer sampling of local shallow water communities to maintain record of local environmental ecology. Seined for fish, measured shrimp abundance, and monitored shrimp predation.
 
 * Curatorial-Aid Intern 
