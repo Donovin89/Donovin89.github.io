@@ -14,4 +14,5 @@ Moreover, the impact of educational disparities on median income is compounded b
 In addressing these challenges, understanding the relationship map between education and median income is crucial for implementing targeted policies and initiatives aimed at fostering educational equity and economic opportunity across all communities in Baltimore. By investing in educational resources, promoting workforce development, and addressing systemic barriers, Baltimore can work towards a future where educational achievement serves as a catalyst for inclusive economic growth and prosperity for all residents.
 
 ### Relationship Map of Education & Medincome in Baltimore 
-![Relationship_Map](../images/Lab7_Map.png){height="50%"}
+<img src="../images/Lab7_Map.png" alt="Relationship Map" height="50%">
+
