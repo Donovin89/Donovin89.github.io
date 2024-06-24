@@ -35,7 +35,7 @@ Work experience
 	* Literature and citation review for various air quality presentations and papers.
 
  * General Assistant  
- Institute of Marine & Environmental Technology (IMET), Baltimore, MD                                   _Dec 2022-Mar 2023_
+ Institute of Marine & Environmental Technology (IMET), Baltimore, MD                                   Dec 2022-Mar 2023
 	- Assisted Aquaculture Research Center (ARC) technician in zebrafish husbandry duties including feeding and siphoning.
 	- Assisted in water quality maintenance through bicarbonate additions.
 	- Conducted daily feedings and monitored fish behavior.
