@@ -6,7 +6,7 @@ collection: portfolio
 
 ## Monitoring Air Pollution from CSX 
 
-![MAP1](../images/SERCSAirSensors2PollutionCSX.png)
+![MAP1](/images/SERCSAirSensors2PollutionCSX.png)
 #### Current Air Quality Monitoring Challenges: CSX
 
 Baltimore's traditional air quality monitoring systems need more coverage and dispersion throughout the city, limiting their ability to discern particulate matter and distinct toxic metals effectively. This gap underscores the need for innovative approaches to supplement existing monitoring efforts. The Smithsonian Environmental Research Center (SERC) proposes a novel method: utilizing tree-leaf surfaces as bioindicators of air pollution.
