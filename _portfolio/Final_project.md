@@ -6,7 +6,7 @@ collection: portfolio
 
 ## Monitoring Air Pollution from CSX 
 
-![MAP1](/images/SERCSAirSensors2PollutionCSX.png)
+![MAP1](../images/SERCSAirSensors2PollutionCSX.png)
 #### Current Air Quality Monitoring Challenges: CSX
 
 Baltimore's traditional air quality monitoring systems need more coverage and dispersion throughout the city, limiting their ability to discern particulate matter and distinct toxic metals effectively. This gap underscores the need for innovative approaches to supplement existing monitoring efforts. The Smithsonian Environmental Research Center (SERC) proposes a novel method: utilizing tree-leaf surfaces as bioindicators of air pollution.
@@ -42,7 +42,7 @@ In conclusion, using tree-leaf surfaces as bioindicators of heavy metal pollutio
 
 ## Heavy Metal Pollution from Baltimore's Incinerator: Integrating Air Sensors and Tree Leaf Surfaces for Effective Monitoring
 
-![MAP2](/images/PollutionSourceIncinerator.png)
+![MAP2](../images/PollutionSourceIncinerator.png)
 
 Baltimore, Maryland, faces significant environmental challenges, particularly regarding heavy metal pollution from sources such as the Wheelabrator Baltimore incinerator. This issue is exacerbated by its potential health impacts on nearby communities, necessitating robust monitoring and intervention strategies. Integrating air sensors with tree leaf surface analysis, proposed by the Smithsonian Environmental Research Center (SERC), presents a promising approach to assess and mitigate heavy metal pollution comprehensively.
 
