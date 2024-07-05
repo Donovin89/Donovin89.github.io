@@ -90,5 +90,8 @@ In conclusion, integrated monitoring systems combining air sensors and tree leaf
 
 
  
+## Distance Analysis Bar-Plot 
 
- 
+![Barplot](images/CSX_Incinerator_barplot.png)
+
+SERC's air monitoring locations are in closer promxity and group together more for Baltimore Incinerator than CSX. Majority of air sensors for CSX fall in the range of 5,000 meters away from pollution source. For the incinerator the majority of air sensors fall within 1,200 to 2,000 meters. Majority of air sensors are closer to the incinerator than the CSX coal trains.
